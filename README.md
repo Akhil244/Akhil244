@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/machine-learning-banner-web-icon-260nw-1110900704.jpg)]
+![MasterHead](https://www.shutterstock.com/image-vector/machine-learning-banner-web-icon-260nw-1110900704.jpg)
 
 <h1 align="center">MARKAPURAM VENKATA AKHIL</h1>
 <h3 align="center">A passionate developer from India</h3>
