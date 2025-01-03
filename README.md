@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **markapuramakhil@gmail.com**
 
-- ⚡ Fun fact **Fueled by a passion for coding and a cup of tea, I debug life one line at a time!**
+- ⚡ Fun fact :**Fueled by a passion for coding and a cup of tea, I debug life one line at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
