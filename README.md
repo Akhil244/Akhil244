@@ -4,10 +4,6 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWphNTNsdmRvNWk5Y2t1M2R4bzZzdTdsaHE0NHp6OTRkeDg5MDQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil244&label=Profile%20views&color=0e75b6&style=flat" alt="akhil244" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil244" alt="akhil244" /></a> </p>
-
 - 🌱 I’m currently learning **DSA,Python,ML,DL**
 
 - 💬 Ask me about **C++**
@@ -15,6 +11,10 @@
 - 📫 How to reach me **markapuramakhil@gmail.com**
 
 - ⚡ Fun fact **Fueled by a passion for coding and a cup of tea, I debug life one line at a time!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil244&label=Profile%20views&color=0e75b6&style=flat" alt="akhil244" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil244" alt="akhil244" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
