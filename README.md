@@ -1,11 +1,8 @@
 ![MasterHead](https://www.shutterstock.com/image-vector/machine-learning-banner-web-icon-260nw-1110900704.jpg)
 
-<h1 align="center">Hi 👋, I'm Akhil</h1>
+<h1 align="center">Hi, I'm Akhil</h1>
 <h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil244&label=Profile%20views&color=0e75b6&style=flat" alt="akhil244" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil244" alt="akhil244" /></a> </p>
+<img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWphNTNsdmRvNWk5Y2t1M2R4bzZzdTdsaHE0NHp6OTRkeDg5MDQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif">
 
 - 🌱 I’m currently learning **DSA,Python,ML,DL**
 
@@ -14,6 +11,10 @@
 - 📫 How to reach me **markapuramakhil@gmail.com**
 
 - ⚡ Fun fact **Fueled by a passion for coding and a cup of tea, I debug life one line at a time!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil244&label=Profile%20views&color=0e75b6&style=flat" alt="akhil244" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil244" alt="akhil244" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil244&show_icons=true&locale=en" alt="akhil244" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil244&" alt="akhil244" /></p>
+
