@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWphNTNsdmRvNWk5Y2t1M2R4bzZzdTdsaHE0NHp6OTRkeDg5MDQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif">
 
-- 🌱 I’m currently learning **DSA,Python,ML,DL**
+- 🌱 I’m currently learning **DSA,Python,Machine Learning,Deep Learning**
 
 - 💬 Ask me about **C++**
 
