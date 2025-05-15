@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil244" alt="akhil244" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,Python,Machine Learning,Deep Learning**
+- 🌱 I’m currently learning **DSA,Python,Machine Learning,Deep Learning,DevOps**
 
 - 💬 Ask me about **C++**
 
