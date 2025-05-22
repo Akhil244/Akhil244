@@ -1,4 +1,5 @@
-![MasterHead](https://www.shutterstock.com/image-vector/machine-learning-banner-web-icon-260nw-1110900704.jpg)
+![MasterHead](https://github.com/user-attachments/assets/193915ca-c3b1-4aea-986f-8ebc72432cf6)
+
 
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A passionate developer from India</h3>
