@@ -4,8 +4,9 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="center">
 ![image](https://github.com/user-attachments/assets/e320ccec-5416-4894-aea3-7eee6d95887a)
-
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil244&label=Profile%20views&color=0e75b6&style=flat" alt="akhil244" /> </p>
