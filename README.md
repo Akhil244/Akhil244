@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/40f9bf74-db7d-425a-b972-861638e9c966/9a058774-0640-40d7-8fd5-ee6e122d1b51"/>
+![image](https://github.com/user-attachments/assets/57adbc03-2c3a-4436-90dc-54664b126400)
 </p>
 
 
