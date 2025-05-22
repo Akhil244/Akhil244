@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Akhil244&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-- 🌱 I’m currently learning **DSA,Python,Machine Learning,Deep Learning,DevOps**
+- 🌱 I’m currently learning **DSA,Java,Machine Learning,Deep Learning,DevOps**
 
 - 💬 Ask me about **C++**
 
