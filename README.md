@@ -5,8 +5,9 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/57adbc03-2c3a-4436-90dc-54664b126400)
+  <img src="https://github.com/user-attachments/assets/57adbc03-2c3a-4436-90dc-54664b126400" />
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil244&label=Profile%20views&color=0e75b6&style=flat" alt="akhil244" /> </p>
