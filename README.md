@@ -13,10 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil244&label=Profile%20views&color=0e75b6&style=flat" alt="akhil244" /> </p>
 
 ## 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhil244&theme=radical" alt="trophy" />
-</a>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil244" alt="akhil244" /></a> </p>
 
 
 
