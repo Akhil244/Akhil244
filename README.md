@@ -140,10 +140,8 @@
 </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://junit.org/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*G7x1iOEMYJ9PpyLd.jpg" alt="JUnit" width="40" height="40"/>
+  <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/abc6d476-ac17-49f5-a762-119e3c299927" />
 </a>
-
-  
 </p>
 
 
