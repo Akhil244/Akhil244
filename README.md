@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil244&label=Profile%20views&color=0e75b6&style=flat" alt="akhil244" /> </p>
 
 ## 🏆 GitHub Trophies
-[![](https://github-trophies.vercel.app/?username=Akhil244)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
+https://github-profile-trophy.vercel.app/?username=Akhil244&theme=algolia
 
 
 - 🌱 I’m currently learning **DSA,Java,Machine Learning,Deep Learning,DevOps**
