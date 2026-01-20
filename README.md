@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA,Java,Machine Learning,Deep Learning,DevOps**
+- 🌱 I’m currently learning **DSA,Java**
 
 - 💬 Ask me about **C++**
 
